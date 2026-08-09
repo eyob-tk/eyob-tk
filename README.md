@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 First-year Software Engineering student at AAU.
+- 🎓 Software Engineering student at AAU.
 - 🛠️ Interested in building scalable data pipelines, intelligent systems, and clean web interfaces.
 - 🧪 Currently honing my skills through hands-on projects like visual web clones and data experiments.
 
