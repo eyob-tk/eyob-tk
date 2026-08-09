@@ -23,9 +23,3 @@
 ### 🔗 Connect with Me
 - **LinkedIn:** (https://www.linkedin.com/in/eyob-tekaligne-5bb901392)
 - **GitHub:** (https://github.com/eyob-tk)
-
----
-
-### 📊 GitHub Stats
-![Eyob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyob-tk&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyob-tk&layout=compact&theme=dark)
