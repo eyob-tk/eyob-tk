@@ -28,4 +28,4 @@
 
 * **LinkedIn:** [eyob-tekaligne](https://www.linkedin.com/in/eyob-tekaligne-5bb901392)
 * **GitHub:** [eyob-tk](https://github.com/eyob-tk)
-* **Telegram** [Eyob_T](t.me/etkta)
+* **Telegram** [Eyob_T](https://t.me/etkta)
