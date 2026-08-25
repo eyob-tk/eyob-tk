@@ -2,21 +2,21 @@
 
 💻 **Software Engineering Student** at Addis Ababa University (AAU)  
 🎯 **Focus Areas:** Modern Frontend Development & AI / Machine Learning  
-🌱 **Currently Learning:** React, Advanced Frontend Techniques & AI/ML Development
+🌱 **Currently Learning:** Advanced Frontend Patterns, State Management & AI/ML Integration  
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-* 🎓 Software Engineering student at AAU passionate about building intuitive user experiences and intelligent applications.
-* 🛠️ Focusing on modern **Frontend Web Development** using **React**, **JavaScript**, **HTML5**, and **CSS3**, alongside practical **AI/ML Development**.
-* 🧪 Building hands-on projects including interactive web apps, modern UI clones, and machine learning experiments.
+* 🎓 **Software Engineering student** at AAU passionate about building intuitive user experiences and intelligent applications.
+* 🛠️ **Frontend Specialist**: Building scalable applications with **React**, **Vite**, **JavaScript (ES6+)**, **HTML5**, and **CSS3**, alongside practical AI/ML exploration.
+* 🧪 **Project Driven**: Developing interactive web apps, modern UI tools, and machine learning models.
 
 ---
 
-## 🛠️ Tech & Tools
+### 🛠️ Tech & Tools
 
-* **Frontend Frameworks & Web:** React, JavaScript (ES6+), HTML5, CSS3, Responsive Design
+* **Frontend Frameworks & Build Tools:** React, Vite, JavaScript (ES6+), HTML5, CSS3, Responsive Design
 * **Languages:** JavaScript, Python, C++
 * **AI & Data Science:** ML Fundamentals, Python (Data Processing & Model Development)
 * **Version Control:** Git, GitHub, GitHub Desktop
