@@ -21,5 +21,5 @@
 
 ## Connect with Me
 
-* **LinkedIn:** [eyob-tekaligne](https://www.linkedin.com/in/eyob-tekaligne-5bb901392)
-* **E-mail:** [Eyob_Teklaigne](mailto:293199826+eyob-tk@users.noreply.github.com)
+* **LinkedIn:** [Eyob-Tekaligne](https://www.linkedin.com/in/eyob-tekaligne-5bb901392)
+* **E-mail:** [Eyob-Teklaigne](mailto:293199826+eyob-tk@users.noreply.github.com)
